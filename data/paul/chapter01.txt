@@ -1,9 +1,19 @@
 $question$
-What are the eight primitive data types?
-$answer$
-byte, short, int, long, float, double, boolean, char
-
-$question$
 How is the main method always defined?
 $answer$
 public static void main(String[] args)
+
+$question$
+With which command do You compile the file Bicycle.java?
+$answer$
+javac Bicycle.java
+
+$question$
+What are the 10 Java design goals?
+$answer$
+simple, object-oriented, secure, robust, distributed, dynamic, multithreaded, architectural neutral, portable, performance
+
+$question$
+What is the meaning of each of the 10 Java design goals?
+$answer$
+That is Your task.
