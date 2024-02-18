@@ -1,0 +1,9 @@
+$question$
+What are the eight primitive data types?
+$answer$
+byte, short, int, long, float, double, boolean, char
+
+$question$
+How is the main method always defined?
+$answer$
+public static void main(String[] args)
